@@ -46,8 +46,8 @@ Here's what the config data structure looks like for each section:
 
 #### Basic Information
 ```typescript
-name: "Your Name",
-title: "Your Job Title",
+name: "Tristan Anglin",
+title: "Student",
 description: "Brief site description",
 accentColor: "#1d4ed8", // Hex color for theme
 ```
